@@ -108,7 +108,7 @@ Building practical applications with Python, machine learning, and large languag
 - Uses local PHI de-identification to preserve medication details while limiting patient information exposure to external LLM services.
 - Applies fine-tuned Med7 entity recognition and a locally cached DailyMed vocabulary to extract and validate medication information.
 - Evaluates extraction quality, medication preservation, and identifying-information leakage using synthetic healthcare documents.
-
+[View Repository →](https://github.com/Riya31803/MedInsight-App.git)
 ### 📄 PDF Chatbot — RAG-Based Question Answering
 
 **Technologies:** Python, LangChain, OpenAI API, Hugging Face, FAISS, Streamlit, Docker
